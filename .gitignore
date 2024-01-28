@@ -3,6 +3,7 @@ ny_taxi_postgres_data/
 data_pgadmin/
 terrademo/keys/my-creds.json
 *.csv
+*.json
 
 # Local .terraform directories
 **/.terraform/*
