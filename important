@@ -54,3 +54,5 @@ taxi_ingest:v001 \
   --db=ny_taxi \
   --table_name=yellow_taxi_trips \
   --url=${URL}
+
+https://d37ci6vzurychx.cloudfront.net/misc/taxi+_zone_lookup.csv
